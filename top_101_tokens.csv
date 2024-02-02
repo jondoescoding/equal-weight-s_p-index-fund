@@ -1,0 +1,102 @@
+Ticker,Name,ID
+btc,Bitcoin,bitcoin
+eth,Ethereum,ethereum
+usdt,Tether,tether
+bnb,BNB,binancecoin
+sol,Solana,solana
+xrp,XRP,ripple
+usdc,USDC,usd-coin
+steth,Lido Staked Ether,staked-ether
+ada,Cardano,cardano
+avax,Avalanche,avalanche-2
+doge,Dogecoin,dogecoin
+trx,TRON,tron
+link,Chainlink,chainlink
+dot,Polkadot,polkadot
+matic,Polygon,matic-network
+ton,Toncoin,the-open-network
+wbtc,Wrapped Bitcoin,wrapped-bitcoin
+icp,Internet Computer,internet-computer
+shib,Shiba Inu,shiba-inu
+ltc,Litecoin,litecoin
+dai,Dai,dai
+bch,Bitcoin Cash,bitcoin-cash
+uni,Uniswap,uniswap
+leo,LEO Token,leo-token
+atom,Cosmos Hub,cosmos
+etc,Ethereum Classic,ethereum-classic
+xlm,Stellar,stellar
+apt,Aptos,aptos
+xmr,Monero,monero
+inj,Injective,injective-protocol
+okb,OKB,okb
+near,NEAR Protocol,near
+op,Optimism,optimism
+tao,Bittensor,bittensor
+imx,Immutable,immutable-x
+tia,Celestia,celestia
+fdusd,First Digital USD,first-digital-usd
+ldo,Lido DAO,lido-dao
+fil,Filecoin,filecoin
+hbar,Hedera,hedera-hashgraph
+kas,Kaspa,kaspa
+arb,Arbitrum,arbitrum
+cro,Cronos,crypto-com-chain
+stx,Stacks,blockstack
+vet,VeChain,vechain
+mnt,Mantle,mantle
+mkr,Maker,maker
+sui,Sui,sui
+rndr,Render,render-token
+sei,Sei,sei-network
+qnt,Quant,quant-network
+tusd,TrueUSD,true-usd
+grt,The Graph,the-graph
+reth,Rocket Pool ETH,rocket-pool-eth
+egld,MultiversX,elrond-erd-2
+rune,THORChain,thorchain
+bsv,Bitcoin SV,bitcoin-cash-sv
+mina,Mina Protocol,mina-protocol
+algo,Algorand,algorand
+aave,Aave,aave
+ordi,ORDI,ordinals
+tkx,Tokenize Xchange,tokenize-xchange
+flow,Flow,flow
+hnt,Helium,helium
+osmo,Osmosis,osmosis
+snx,Synthetix Network,havven
+sats,SATS (Ordinals),sats-ordinals
+dydx,dYdX,dydx-chain
+astr,Astar,astar
+ftm,Fantom,fantom
+sand,The Sandbox,the-sandbox
+theta,Theta Network,theta-token
+axs,Axie Infinity,axie-infinity
+wbt,WhiteBIT Coin,whitebit
+kcs,KuCoin,kucoin-shares
+chz,Chiliz,chiliz
+ape,ApeCoin,apecoin
+beam,Beam,beam-2
+xtz,Tezos,tezos
+bgb,Bitget Token,bitget-token
+wemix,WEMIX,wemix-token
+cheel,Cheelee,cheelee
+ron,Ronin,ronin
+ethdydx,dYdX,dydx
+mana,Decentraland,decentraland
+eos,EOS,eos
+jup,Jupiter,jupiter-exchange-solana
+blur,Blur,blur
+manta,Manta Network,manta-network
+meth,Mantle Staked Ether,mantle-staked-ether
+btt,BitTorrent,bittorrent
+neo,NEO,neo
+kava,Kava,kava
+iota,IOTA,iota
+cfx,Conflux,conflux-token
+fxs,Frax Share,frax-share
+flr,Flare,flare-networks
+usdd,USDD,usdd
+frxeth,Frax Ether,frax-ether
+gala,GALA,gala
+rose,Oasis Network,oasis-network
